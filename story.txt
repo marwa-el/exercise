@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
 aaaaaaaaaaaaaaaa , this is edited
-=======
 aaaaaaaaaaaaaaaa
 bbbbbbbbbbb
->>>>>>> Stashed changes
